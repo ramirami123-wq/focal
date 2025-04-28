@@ -44,9 +44,9 @@
       "type": "header",
       "settings": {
         "enable_sticky_header": true,
-        "logo": "{{ shop.brand.logo }}",
-        "logo_max_width": 140,
-        "mobile_logo_max_width": 100,
+        "logo": "shopify://shop_images/APPLE_WATCH_BANDS__7_-removebg-preview.png",
+        "logo_max_width": 125,
+        "mobile_logo_max_width": 50,
         "navigation_menu": "main-menu",
         "sidebar_navigation_menu": "",
         "header_layout": "logo_left_navigation_center",
