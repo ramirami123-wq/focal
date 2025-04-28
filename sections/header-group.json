@@ -16,9 +16,10 @@
       "blocks": {
         "message-1": {
           "type": "message",
+          "name": "Messa",
           "settings": {
-            "text": "Announce something here",
-            "learn_more_text": "Learn more",
+            "text": "50% OFF + FREE DELIVERY",
+            "learn_more_text": "",
             "title": "",
             "content": "",
             "button_text": "",

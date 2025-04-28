@@ -33,6 +33,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/IMG_3588.heic",
             "text_position": "middle_center",
             "subheading": "Tell your story",
             "title": "Slide 2",
@@ -53,7 +54,7 @@
         "slide-2"
       ],
       "settings": {
-        "section_height": "auto",
+        "section_height": "medium",
         "transition_type": "sweep",
         "show_initial_transition": false,
         "autoplay": true,
