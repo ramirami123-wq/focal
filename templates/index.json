@@ -358,10 +358,34 @@
         "item_background": "rgba(0,0,0,0)",
         "item_text_color": "rgba(0,0,0,0)"
       }
+    },
+    "scroll_X9TwLi": {
+      "type": "scroll",
+      "name": "SS - Scrolling text",
+      "settings": {
+        "text": "NO PAIN, NO RISK, JUSR RESULTS!",
+        "icon_width": 24,
+        "link": "",
+        "direction": "left",
+        "inside_padding": 0,
+        "text_font": "poppins_n5",
+        "text_size": 44,
+        "text_size_mobile": 22,
+        "scrolling_speed": 25,
+        "scrolling_speed_mobile": 30,
+        "text_spacing": true,
+        "pause_hover": false,
+        "text_color": "#ffffff",
+        "text_gradient": "",
+        "background_color": "#ff65c3",
+        "background_gradient": "",
+        "direction_rtl": false
+      }
     }
   },
   "order": [
     "slideshow",
+    "scroll_X9TwLi",
     "featured-product",
     "image-with-text",
     "shop-the-look",
