@@ -146,6 +146,38 @@
         "text_color": "rgba(0,0,0,0)"
       }
     },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_6167.heic",
+            "tab_label": "Text 1",
+            "subheading": "Subheading",
+            "title": "Image with text",
+            "content": "<p>Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.</p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
     "scroll_QiTp7C": {
       "type": "scroll",
       "name": "SS - Scrolling text",
@@ -167,49 +199,6 @@
         "background_color": "#ff65c3",
         "background_gradient": "",
         "direction_rtl": false
-      }
-    },
-    "image-with-text": {
-      "type": "image-with-text",
-      "blocks": {
-        "item-1": {
-          "type": "item",
-          "settings": {
-            "tab_label": "Text 1",
-            "subheading": "Subheading",
-            "title": "Image with text",
-            "content": "<p>Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.</p>",
-            "button_text": "",
-            "button_link": ""
-          }
-        },
-        "item-2": {
-          "type": "item",
-          "settings": {
-            "tab_label": "Text 2",
-            "subheading": "Subheading",
-            "title": "Image with text",
-            "content": "<p>Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.</p>",
-            "button_text": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "item-1",
-        "item-2"
-      ],
-      "settings": {
-        "reveal_on_scroll": true,
-        "background_type": "full_width",
-        "background_overlap": "image",
-        "image_position": "left",
-        "text_alignment": "center",
-        "cycle_speed": 8,
-        "accent_background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
       }
     },
     "shop-the-look": {
@@ -277,71 +266,14 @@
         "button_text_color": "rgba(0,0,0,0)"
       }
     },
-    "collection-list": {
-      "type": "collection-list",
-      "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection-1",
-        "collection-2",
-        "collection-3"
-      ],
-      "settings": {
-        "reveal_on_scroll": false,
-        "layout": "collage",
-        "subheading": "Subheading",
-        "title": "Collection list",
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
-      }
-    },
     "testimonials": {
       "type": "testimonials",
       "blocks": {
         "testimonial-1": {
           "type": "testimonial",
           "settings": {
-            "content": "Write some content about what they are saying about your store.",
-            "author": "John S."
+            "content": "This product gave me smooth, hair-free skin in just a few weeks!",
+            "author": "Celine Z."
           }
         }
       },
@@ -415,7 +347,6 @@
     "shop-the-look",
     "blog-posts",
     "image-with-text-block",
-    "collection-list",
     "testimonials",
     "timeline"
   ]
