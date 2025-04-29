@@ -62,34 +62,65 @@
         "background": "rgba(0,0,0,0)"
       }
     },
-    "featured-collections": {
-      "type": "featured-collections",
+    "featured-product": {
+      "type": "featured-product",
       "blocks": {
-        "collection-1": {
-          "type": "collection",
+        "liquid_qPpR37": {
+          "type": "liquid",
           "settings": {
-            "collection": "",
-            "label": "",
-            "button_text": "",
-            "button_url": ""
+            "liquid": "<b>✅ 100% Money-Back Guarantee<br>\n🧴 Safe for All Skin Types<br>\n💡 Pain-Free & Easy to Use at Home<br>\n⏱️ Visible Results in Just Weeks<br>\n🪒 No More Waxing or Shaving<br>\n🛡️ Try It Risk-Free Today</b>"
+          }
+        },
+        "variant-picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity-selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy-buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
           }
         }
       },
       "block_order": [
-        "collection-1"
+        "liquid_qPpR37",
+        "variant-picker",
+        "quantity-selector",
+        "buy-buttons"
       ],
       "settings": {
-        "subheading": "Your title",
-        "title": "Collection",
-        "content": "",
-        "products_count": 8,
-        "products_per_row": 4,
-        "stack_products": true,
-        "show_cta": false,
+        "product": "",
+        "subheading": "",
+        "title": "",
+        "show_vendor": true,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_share_buttons": true,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide",
         "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
+        "text_color": "rgba(0,0,0,0)"
       }
     },
     "image-with-text": {
@@ -327,72 +358,17 @@
         "item_background": "rgba(0,0,0,0)",
         "item_text_color": "rgba(0,0,0,0)"
       }
-    },
-    "featured-product": {
-      "type": "featured-product",
-      "blocks": {
-        "variant-picker": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "selector_mode": "block",
-            "color_mode": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "quantity-selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy-buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": false,
-            "atc_button_background": "rgba(0,0,0,0)",
-            "atc_button_text_color": "rgba(0,0,0,0)",
-            "buy_now_button_background": "rgba(0,0,0,0)",
-            "buy_now_button_text_color": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "variant-picker",
-        "quantity-selector",
-        "buy-buttons"
-      ],
-      "settings": {
-        "product": "",
-        "subheading": "Subheading",
-        "title": "Featured product",
-        "show_vendor": true,
-        "show_sku": false,
-        "show_taxes_included": false,
-        "show_product_rating": false,
-        "show_share_buttons": true,
-        "help_page": "",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "show_thumbnails_on_mobile": false,
-        "desktop_thumbnails_position": "bottom",
-        "transition_effect": "slide",
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
-      }
     }
   },
   "order": [
     "slideshow",
-    "featured-collections",
+    "featured-product",
     "image-with-text",
     "shop-the-look",
     "blog-posts",
     "image-with-text-block",
     "collection-list",
     "testimonials",
-    "timeline",
-    "featured-product"
+    "timeline"
   ]
 }
