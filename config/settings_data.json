@@ -48,7 +48,7 @@
     "product_color_display": "hide",
     "product_image_size": "natural",
     "cart_type": "drawer",
-    "cart_icon": "tote_bag",
+    "cart_icon": "shopping_bag",
     "cart_show_free_shipping_threshold": true,
     "accent_color": "#405de6",
     "checkout_sidebar_background_color": "#f5f5f5",
