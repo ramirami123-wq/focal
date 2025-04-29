@@ -201,6 +201,53 @@
         "direction_rtl": false
       }
     },
+    "faq_h6HLa8": {
+      "type": "faq",
+      "blocks": {
+        "question_wTJJ67": {
+          "type": "question",
+          "settings": {
+            "title": "Is it safe for all skin types?",
+            "answer": "<p>Easy Laiser is safe for most skin tones and hair colors. Just make sure to check the skin tone chart included in your package.</p>"
+          }
+        },
+        "question_x4VB98": {
+          "type": "question",
+          "settings": {
+            "title": "How long will it take to get my order?",
+            "answer": ""
+          }
+        },
+        "question_nMaJrB": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use it on my face or bikini area?",
+            "answer": "<p>Yes! Easy Laiser is safe for your face, underarms, legs, and bikini line.</p>"
+          }
+        },
+        "question_LFU9pA": {
+          "type": "question",
+          "settings": {
+            "title": "Does IPL hair removal hurt?",
+            "answer": "<p>Not at all! Most users feel a gentle warmth or light snap — way less painful than waxing.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_wTJJ67",
+        "question_x4VB98",
+        "question_nMaJrB",
+        "question_LFU9pA"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "show_navigation": false,
+        "title": "FAQ",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
     "testimonials": {
       "type": "testimonials",
       "blocks": {
@@ -230,6 +277,7 @@
     "featured-product",
     "image-with-text",
     "scroll_QiTp7C",
+    "faq_h6HLa8",
     "testimonials"
   ]
 }
