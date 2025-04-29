@@ -201,6 +201,80 @@
         "direction_rtl": false
       }
     },
+    "insta_4nxHqK": {
+      "type": "insta",
+      "blocks": {
+        "image_nqdNPc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4112.jpg",
+            "url": ""
+          }
+        },
+        "image_qd46ba": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3588.heic",
+            "url": ""
+          }
+        },
+        "image_nYbQxG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_6167.heic",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_nqdNPc",
+        "image_qd46ba",
+        "image_nYbQxG"
+      ],
+      "name": "SS - Instafeed #6",
+      "settings": {
+        "scrolling_velocity": 70,
+        "scrolling_velocity_mobile": 70,
+        "scrolling_velocity_image": 70,
+        "scrolling_velocity_image_mobile": 70,
+        "scrolling_gap": 100,
+        "scrolling_gap_mobile": 70,
+        "scrolling_gap_image": 150,
+        "scrolling_gap_image_mobile": 150,
+        "reverse_direction": false,
+        "pause_hover": false,
+        "text": "@EASY.LAISER",
+        "text_custom": true,
+        "text_font": "poppins_n7",
+        "text_size": 40,
+        "text_size_mobile": 40,
+        "text_height": 150,
+        "image_width": 300,
+        "image_width_mobile": 250,
+        "image_radius": 20,
+        "image_border_thickness": 0,
+        "image_ratio": "square",
+        "image_ratio_mobile": "square",
+        "text_color": "#0A0A0A",
+        "image_border_color": "#000000",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 64,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 24,
+        "padding_bottom": 24,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
     "faq_h6HLa8": {
       "type": "faq",
       "blocks": {
@@ -277,6 +351,7 @@
     "featured-product",
     "image-with-text",
     "scroll_QiTp7C",
+    "insta_4nxHqK",
     "faq_h6HLa8",
     "testimonials"
   ]
