@@ -119,12 +119,29 @@
         "include_horizontal_margins": true,
         "include_vertical_margins": true
       }
+    },
+    "newsletter_AthhiL": {
+      "type": "newsletter",
+      "name": "Newsletter",
+      "settings": {
+        "reveal_on_scroll": true,
+        "image": "shopify://shop_images/IMG_6167.heic",
+        "subheading": "Subscribe to our newsletter",
+        "content": "<p>Promotions, new products and sales. Directly to your inbox.</p>",
+        "text_position": "right",
+        "text_alignment": "left",
+        "text_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
     }
   },
   "order": [
     "main",
     "product-content",
     "product-recommendations",
-    "1746042348de7fa941"
+    "1746042348de7fa941",
+    "newsletter_AthhiL"
   ]
 }
