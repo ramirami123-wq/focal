@@ -91,6 +91,7 @@
       "block_order": [
         "description"
       ],
+      "disabled": true,
       "settings": {}
     },
     "product-recommendations": {
