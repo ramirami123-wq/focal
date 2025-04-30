@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "text_DK8kAN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>⭐⭐⭐⭐⭐ 4.9/5 ( Excellent )</p>"
+          }
+        },
         "liquid_CmehPc": {
           "type": "liquid",
           "settings": {
@@ -51,6 +57,7 @@
         }
       },
       "block_order": [
+        "text_DK8kAN",
         "liquid_CmehPc",
         "variant_picker",
         "quantity_selector",
@@ -58,7 +65,7 @@
         "liquid_gUKxdH"
       ],
       "settings": {
-        "show_vendor": true,
+        "show_vendor": false,
         "show_sku": false,
         "show_taxes_included": false,
         "show_product_rating": false,
