@@ -103,11 +103,28 @@
         "background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)"
       }
+    },
+    "1746042348de7fa941": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_ajk7mX": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_ajk7mX"
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
+      }
     }
   },
   "order": [
     "main",
     "product-content",
-    "product-recommendations"
+    "product-recommendations",
+    "1746042348de7fa941"
   ]
 }
