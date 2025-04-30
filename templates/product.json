@@ -1,1 +1,105 @@
-{"sections":{"main":{"type":"main-product","blocks":{"variant_picker":{"type":"variant_picker","settings":{}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{}}},"block_order":["variant_picker","quantity_selector","buy_buttons"],"settings":{}},"product-content":{"type":"product-content","blocks":{"description":{"type":"description","settings":{}}},"block_order":["description"],"settings":{}},"product-recommendations":{"type":"product-recommendations","settings":{}}},"order":["main","product-content","product-recommendations"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "liquid_CmehPc": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<b>✅ 100% Money-Back Guarantee<br>\n🧴 Safe for All Skin Types<br>\n💡 Pain-Free & Easy to Use at Home<br>\n⏱️ Visible Results in Just Weeks<br>\n🪒 No More Waxing or Shaving</b>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "liquid_gUKxdH": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "liquid_CmehPc",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "liquid_gUKxdH"
+      ],
+      "settings": {
+        "show_vendor": true,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_sticky_add_to_cart": true,
+        "show_share_buttons": false,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": true,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "description"
+      ],
+      "settings": {}
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "subheading": "",
+        "title": "You may also like",
+        "recommendations_count": 4,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-content",
+    "product-recommendations"
+  ]
+}
