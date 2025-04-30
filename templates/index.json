@@ -110,7 +110,7 @@
         "liquid_qPpR37": {
           "type": "liquid",
           "settings": {
-            "liquid": "<b>✅ 100% Money-Back Guarantee<br>\n🧴 Safe for All Skin Types<br>\n💡 Pain-Free & Easy to Use at Home<br>\n⏱️ Visible Results in Just Weeks<br>\n🪒 No More Waxing or Shaving<br>\n🛡️ Try It Risk-Free Today</b>"
+            "liquid": "<b>✅ 100% Money-Back Guarantee<br>\n🧴 Safe for All Skin Types<br>\n💡 Pain-Free & Easy to Use at Home<br>\n⏱️ Visible Results in Just Weeks<br>\n🪒 No More Waxing or Shaving</b>"
           }
         },
         "variant-picker": {
@@ -146,14 +146,14 @@
         "buy-buttons"
       ],
       "settings": {
-        "product": "",
+        "product": "ipl-laiser",
         "subheading": "",
         "title": "",
-        "show_vendor": true,
+        "show_vendor": false,
         "show_sku": false,
         "show_taxes_included": false,
         "show_product_rating": false,
-        "show_share_buttons": true,
+        "show_share_buttons": false,
         "help_page": "",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
