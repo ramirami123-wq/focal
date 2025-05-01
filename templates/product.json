@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_GAB8g7": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"google-container\">\n  <div class=\"google-text\">\"Amazing\"</div>\n\n  <img\n    class=\"google-image\"\n    src=\"https://cdn.shopify.com/s/files/1/0798/4267/2987/files/Revive_39.png?v=1733346031\"\n    alt=\"googleImage\"\n  />\n\n  <div class=\"google-rating\">Rated 4.9/5 on</div>\n\n  <img\n    class=\"google-logo\"\n    src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/640px-Google_2015_logo.svg.png\"\n    alt=\"googleImage\"\n  />\n</div>\n\n<style>\n            .google-container {\n                display: flex;\n                align-items: center;\n                background-color: #fbfbfb;\n                border: 1px solid #d4edda;\n                border-radius: 8px;\n                padding: 2px 10px;\n\n                width: 100%;\n    border: 1px dashed #898686;\n    gap: 8px;\n    justify-content: center;\n            }\n\n    .google-image{\n    width: 65px;\n    }\n    .google-logo{\n    width: 45px;\n  margin-top: 2px;\n    }\n    .google-text{\n    font-size: 13px;\n    font-weight: 600;\n    }\n    .google-rating{\n    font-size: 10px;\n    font-weight: 500;\n    color: #000;\n    }\n</style>"
+          }
+        },
         "text_DK8kAN": {
           "type": "text",
           "settings": {
@@ -57,12 +63,18 @@
         }
       },
       "block_order": [
+        "liquid_GAB8g7",
         "text_DK8kAN",
         "liquid_CmehPc",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "liquid_gUKxdH"
+      ],
+      "custom_css": [
+        ".product-form__add-button {animation: shopifyshake 4s; animation-iteration-count: infinite;}",
+        ".text {display: block; font-size: 2em; width: 100%; -webkit-animation-duration: 1s; animation-duration: 0.5s;}",
+        ".fadeInDown.text {-webkit-animation-duration: 1.6s; animation-duration: 0.8s;}"
       ],
       "settings": {
         "show_vendor": false,
@@ -321,28 +333,28 @@
         "second_button_padding_horizontal": 40,
         "second_button_radius": 6,
         "second_button_border_thickness": 2,
-        "table_heading_color": "#2F1718",
-        "table_heading_active_color": "#FFFFFF",
+        "table_heading_color": "#2f1718",
+        "table_heading_active_color": "#ffffff",
         "table_heading_bg_active_color": "#ff65c3",
-        "table_column_active_bg_color": "#FFFFFF",
+        "table_column_active_bg_color": "#ffffff",
         "table_column_active_border_color": "#ff65c3",
         "table_row_border_color": "#ff65c3",
-        "table_row_heading_color": "#2F1718",
-        "table_row_text_color": "#2F1718",
+        "table_row_heading_color": "#2f1718",
+        "table_row_text_color": "#2f1718",
         "table_row_active_text_color": "#000000",
-        "button_color": "#A8252E",
-        "button_hover_color": "#FFFFFF",
+        "button_color": "#a8252e",
+        "button_hover_color": "#ffffff",
         "button_bg_color": "",
-        "button_bg_hover_color": "#A8252E",
-        "button_border_color": "#A8252E",
-        "button_border_hover_color": "#A8252E",
-        "second_button_color": "#FFFFFF",
-        "second_button_hover_color": "#FFFFFF",
-        "second_button_bg_color": "#A8252E",
+        "button_bg_hover_color": "#a8252e",
+        "button_border_color": "#a8252e",
+        "button_border_hover_color": "#a8252e",
+        "second_button_color": "#ffffff",
+        "second_button_hover_color": "#ffffff",
+        "second_button_bg_color": "#a8252e",
         "second_button_bg_hover_color": "#791119",
-        "second_button_border_color": "#A8252E",
+        "second_button_border_color": "#a8252e",
         "second_button_border_hover_color": "#791119",
-        "heading_color": "#2F1718",
+        "heading_color": "#2f1718",
         "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
