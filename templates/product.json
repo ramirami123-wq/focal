@@ -408,45 +408,31 @@
     "faq_wkrUxb": {
       "type": "faq",
       "blocks": {
-        "category_zWEqtQ": {
-          "type": "category",
-          "settings": {
-            "title": "Shipping"
-          }
-        },
         "question_xcXbbt": {
           "type": "question",
           "settings": {
-            "title": "Do you ship overseas?",
-            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "How does IPL hair removal work?",
+            "answer": "<p>Our IPL technology targets hair at the root using light pulses that convert to heat. This heat damages the hair follicle, preventing future growth while leaving surrounding skin unharmed. With consistent treatments, you'll experience permanent hair reduction.</p>"
           }
         },
         "question_jWBzDh": {
           "type": "question",
           "settings": {
             "title": "How long will it take to get my order?",
-            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
-          }
-        },
-        "category_P4J4Mx": {
-          "type": "category",
-          "settings": {
-            "title": "Other"
+            "answer": ""
           }
         },
         "question_nDiaAi": {
           "type": "question",
           "settings": {
-            "title": "Any question?",
-            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Is IPL treatment painful?",
+            "answer": "<p>Unlike waxing or epilating, IPL is virtually pain-free. Most users describe the sensation as a mild warming feeling or a light snap against the skin. Our device includes multiple intensity levels so you can adjust for maximum comfort based on your sensitivity.</p>"
           }
         }
       },
       "block_order": [
-        "category_zWEqtQ",
         "question_xcXbbt",
         "question_jWBzDh",
-        "category_P4J4Mx",
         "question_nDiaAi"
       ],
       "name": "FAQ",
