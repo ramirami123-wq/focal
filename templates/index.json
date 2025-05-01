@@ -370,7 +370,7 @@
         "scrolling_velocity": 70,
         "scrolling_velocity_mobile": 70,
         "scrolling_velocity_image": 70,
-        "scrolling_velocity_image_mobile": 70,
+        "scrolling_velocity_image_mobile": 48,
         "scrolling_gap": 100,
         "scrolling_gap_mobile": 70,
         "scrolling_gap_image": 150,
@@ -406,7 +406,7 @@
         "content_width": 120,
         "border_thickness": 0,
         "section_radius": 0,
-        "lazy": true
+        "lazy": false
       }
     },
     "faq_h6HLa8": {
