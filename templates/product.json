@@ -80,6 +80,25 @@
         "transition_effect": "slide"
       }
     },
+    "rich_text_Y7Baf9": {
+      "type": "rich-text",
+      "name": "Rich text",
+      "settings": {
+        "subheading": "",
+        "title": "Say Goodbye to Hair — Forever.",
+        "content": "<p>Easy Laiser gives you smooth, hair-free skin at home — pain-free, hassle-free, and backed by a 100% money-back guarantee. Confidence starts here.</p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
     "product-content": {
       "type": "product-content",
       "blocks": {
@@ -93,6 +112,29 @@
       ],
       "disabled": true,
       "settings": {}
+    },
+    "scroll_M8VgkF": {
+      "type": "scroll",
+      "name": "SS - Scrolling text",
+      "settings": {
+        "text": "FREE DELIVERY ALL OVER LEBANON",
+        "icon_width": 24,
+        "link": "",
+        "direction": "left",
+        "inside_padding": 0,
+        "text_font": "open_sans_n4",
+        "text_size": 70,
+        "text_size_mobile": 20,
+        "scrolling_speed": 25,
+        "scrolling_speed_mobile": 30,
+        "text_spacing": true,
+        "pause_hover": false,
+        "text_color": "#ffffff",
+        "text_gradient": "",
+        "background_color": "#ff65c3",
+        "background_gradient": "",
+        "direction_rtl": false
+      }
     },
     "product-recommendations": {
       "type": "product-recommendations",
@@ -139,7 +181,9 @@
   },
   "order": [
     "main",
+    "rich_text_Y7Baf9",
     "product-content",
+    "scroll_M8VgkF",
     "product-recommendations",
     "1746042348de7fa941",
     "newsletter_AthhiL"
