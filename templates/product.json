@@ -136,14 +136,226 @@
         "direction_rtl": false
       }
     },
-    "product-recommendations": {
-      "type": "product-recommendations",
+    "image_with_text_XEticb": {
+      "type": "image-with-text",
+      "blocks": {
+        "item_RbFH8L": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3588.heic",
+            "tab_label": "",
+            "subheading": "",
+            "title": "No more skin irritation or ingrown hairs",
+            "content": "",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_RbFH8L"
+      ],
+      "name": "Image with text",
       "settings": {
-        "subheading": "",
-        "title": "You may also like",
-        "recommendations_count": 4,
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "scroll_gWEQrG": {
+      "type": "scroll",
+      "name": "SS - Scrolling text",
+      "settings": {
+        "text": "FDA AND CE APPROVED",
+        "icon_width": 24,
+        "link": "",
+        "direction": "left",
+        "inside_padding": 0,
+        "text_font": "open_sans_n4",
+        "text_size": 70,
+        "text_size_mobile": 22,
+        "scrolling_speed": 25,
+        "scrolling_speed_mobile": 30,
+        "text_spacing": true,
+        "pause_hover": false,
+        "text_color": "#ffffff",
+        "text_gradient": "",
+        "background_color": "#ff65c3",
+        "background_gradient": "",
+        "direction_rtl": false
+      }
+    },
+    "hel_ixXz8w": {
+      "type": "hel",
+      "blocks": {
+        "item_c68z8f": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Permanent hair reduction",
+            "first_column": "Yes",
+            "second_column": "No",
+            "third_column": "",
+            "four_column": ""
+          }
+        },
+        "item_MnTaXL": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Pain-free treatment",
+            "first_column": "Yes",
+            "second_column": "No",
+            "third_column": "",
+            "four_column": ""
+          }
+        },
+        "item_ygJMcY": {
+          "type": "item",
+          "settings": {
+            "row_heading": "No skin irritation",
+            "first_column": "Yes",
+            "second_column": "No",
+            "third_column": "",
+            "four_column": ""
+          }
+        },
+        "item_Fw6DVX": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Cost-efficient long-term",
+            "first_column": "Yes",
+            "second_column": "No",
+            "third_column": "",
+            "four_column": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_c68z8f",
+        "item_MnTaXL",
+        "item_ygJMcY",
+        "item_Fw6DVX"
+      ],
+      "name": "SS - Comparison Table #4",
+      "settings": {
+        "heading": "<h2>WHY US?</h2>",
+        "heading_custom": false,
+        "heading_font": "assistant_n4",
+        "heading_size": 56,
+        "heading_size_mobile": 32,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "table_width": 80,
+        "table_columns": 2,
+        "table_align": "center",
+        "table_mt": 44,
+        "table_column_active": "1",
+        "table_column_active_radius": 16,
+        "table_column_active_border_thickness": 2,
+        "table_heading_image_size": 66,
+        "table_heading_image_size_mobile": 40,
+        "first_heading": "LAISER REMOVER",
+        "second_heading": "WAXING",
+        "third_heading": "",
+        "four_heading": "",
+        "table_heading_custom": false,
+        "table_heading_font": "assistant_n4",
+        "table_heading_size": 16,
+        "table_heading_size_mobile": 10,
+        "table_heading_height": 100,
+        "table_heading_align": "center",
+        "table_heading_padding_horizontal": 12,
+        "table_heading_padding_horizontal_mobile": 4,
+        "table_heading_padding_vertical": 10,
+        "table_heading_padding_vertical_mobile": 10,
+        "table_row_padding_horizontal": 16,
+        "table_row_padding_horizontal_mobile": 10,
+        "table_row_padding_vertical": 16,
+        "table_row_padding_vertical_mobile": 10,
+        "table_row_border_thickness": 1,
+        "table_row_heading_image_size": 66,
+        "table_row_heading_image_size_mobile": 40,
+        "table_row_heading_width_mobile": 66,
+        "table_row_heading_custom": false,
+        "table_row_heading_font": "assistant_n4",
+        "table_row_heading_size": 22,
+        "table_row_heading_size_mobile": 16,
+        "table_row_heading_height": 130,
+        "table_row_heading_align": "left",
+        "table_row_text_custom": false,
+        "table_row_text_font": "assistant_n4",
+        "table_row_text_size": 20,
+        "table_row_text_size_mobile": 16,
+        "table_row_text_height": 130,
+        "table_row_text_align": "center",
+        "table_row_image_size": 52,
+        "table_row_image_size_mobile": 40,
+        "buttons_mt": 44,
+        "buttons_gap": 16,
+        "button": "",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 22,
+        "button_size_mobile": 18,
+        "button_height": 100,
+        "button_padding_vertical": 20,
+        "button_padding_horizontal": 40,
+        "button_radius": 6,
+        "button_border_thickness": 2,
+        "second_button": "",
+        "second_button_url": "",
+        "second_button_custom": false,
+        "second_button_font": "josefin_sans_n4",
+        "second_button_size": 22,
+        "second_button_size_mobile": 18,
+        "second_button_height": 100,
+        "second_button_padding_vertical": 20,
+        "second_button_padding_horizontal": 40,
+        "second_button_radius": 6,
+        "second_button_border_thickness": 2,
+        "table_heading_color": "#2F1718",
+        "table_heading_active_color": "#FFFFFF",
+        "table_heading_bg_active_color": "#ff65c3",
+        "table_column_active_bg_color": "#FFFFFF",
+        "table_column_active_border_color": "#ff65c3",
+        "table_row_border_color": "#ff65c3",
+        "table_row_heading_color": "#2F1718",
+        "table_row_text_color": "#2F1718",
+        "table_row_active_text_color": "#000000",
+        "button_color": "#A8252E",
+        "button_hover_color": "#FFFFFF",
+        "button_bg_color": "",
+        "button_bg_hover_color": "#A8252E",
+        "button_border_color": "#A8252E",
+        "button_border_hover_color": "#A8252E",
+        "second_button_color": "#FFFFFF",
+        "second_button_hover_color": "#FFFFFF",
+        "second_button_bg_color": "#A8252E",
+        "second_button_bg_hover_color": "#791119",
+        "second_button_border_color": "#A8252E",
+        "second_button_border_hover_color": "#791119",
+        "heading_color": "#2F1718",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
       }
     },
     "1746042348de7fa941": {
@@ -184,7 +396,9 @@
     "rich_text_Y7Baf9",
     "product-content",
     "scroll_M8VgkF",
-    "product-recommendations",
+    "image_with_text_XEticb",
+    "scroll_gWEQrG",
+    "hel_ixXz8w",
     "1746042348de7fa941",
     "newsletter_AthhiL"
   ]
