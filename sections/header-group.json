@@ -25,10 +25,22 @@
             "button_text": "",
             "button_link": ""
           }
+        },
+        "message_Qm8UQr": {
+          "type": "message",
+          "settings": {
+            "text": "Cash On Delivery",
+            "learn_more_text": "",
+            "title": "",
+            "content": "",
+            "button_text": "",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
-        "message-1"
+        "message-1",
+        "message_Qm8UQr"
       ],
       "custom_css": [],
       "settings": {

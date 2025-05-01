@@ -172,10 +172,10 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/IMG_6167.heic",
-            "tab_label": "Text 1",
-            "subheading": "Subheading",
-            "title": "Image with text",
-            "content": "<p>Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.</p>",
+            "tab_label": "",
+            "subheading": "⭐⭐⭐⭐⭐",
+            "title": "Say Goodbye to Razors Forever",
+            "content": "<p>Imagine waking up every day to touchably smooth skin without planning your life around shaving, waxing, or painful salon appointments.</p>",
             "button_text": "",
             "button_link": ""
           }
