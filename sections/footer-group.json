@@ -77,6 +77,13 @@
             "content": ""
           }
         },
+        "text_yyDBYN": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "content": "<p>+961  76 712 830</p><p>+961   81 670 796</p>"
+          }
+        },
         "social_media": {
           "type": "social_media",
           "settings": {
@@ -87,6 +94,7 @@
       },
       "block_order": [
         "newsletter",
+        "text_yyDBYN",
         "social_media"
       ],
       "settings": {
