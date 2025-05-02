@@ -74,11 +74,6 @@
         "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {}
-      },
-      "14900259222037449619": {
-        "type": "shopify://apps/chaty-whatsapp-chat-buttons/blocks/chaty/0aaf5812-760f-4dd7-be9b-cca564d8200b",
-        "disabled": false,
-        "settings": {}
       }
     }
   },
