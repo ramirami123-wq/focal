@@ -422,6 +422,7 @@
         },
         "question_x4VB98": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "How long will it take to get my order?",
             "answer": ""
