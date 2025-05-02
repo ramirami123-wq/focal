@@ -14,15 +14,6 @@
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
-        "item-1": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "custom_icon_width": 50,
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
-          }
-        },
         "item-2": {
           "type": "item",
           "settings": {
@@ -52,7 +43,6 @@
         }
       },
       "block_order": [
-        "item-1",
         "item-2",
         "item-3",
         "item-4"
