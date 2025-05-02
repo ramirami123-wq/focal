@@ -333,9 +333,9 @@
       "name": "Featured product",
       "settings": {
         "product": "period-machine",
-        "subheading": "Subheading",
-        "title": "Featured product",
-        "show_vendor": true,
+        "subheading": "",
+        "title": "",
+        "show_vendor": false,
         "show_sku": false,
         "show_taxes_included": false,
         "show_product_rating": false,
