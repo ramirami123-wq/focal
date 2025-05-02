@@ -304,6 +304,10 @@
             "size_chart_page": ""
           }
         },
+        "description_i6xPM3": {
+          "type": "description",
+          "settings": {}
+        },
         "quantity_selector_Rwf9ft": {
           "type": "quantity_selector",
           "settings": {}
@@ -322,6 +326,7 @@
       },
       "block_order": [
         "variant_picker_Vc8W3p",
+        "description_i6xPM3",
         "quantity_selector_Rwf9ft",
         "buy_buttons_MEVLXh"
       ],
@@ -334,7 +339,7 @@
         "show_sku": false,
         "show_taxes_included": false,
         "show_product_rating": false,
-        "show_share_buttons": true,
+        "show_share_buttons": false,
         "help_page": "",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
