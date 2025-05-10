@@ -11,18 +11,20 @@
   "sections": {
     "video_jWAKNh": {
       "type": "video",
+      "custom_css": [],
       "name": "Video",
       "settings": {
         "subheading": "",
         "title": "",
         "video": "shopify://files/videos/IMG_3590 (1).MP4",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "image": "shopify://shop_images/IMG_3588_05c16e5a-6e8f-4701-a7d1-69d177e592e4.heic",
         "background_type": "full_width",
         "video_size": "medium",
-        "autoplay": true,
+        "autoplay": false,
         "show_video_controls": true,
         "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
+        "text_color": "#ffffff"
       }
     },
     "slideshow": {
