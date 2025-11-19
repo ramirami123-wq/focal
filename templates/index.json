@@ -200,16 +200,10 @@
         "direction_rtl": false
       }
     },
-    "featured-product": {
+    "featured_product_6JBxED": {
       "type": "featured-product",
       "blocks": {
-        "liquid_qPpR37": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<b>✅ 100% Money-Back Guarantee<br>\n🧴 Safe for All Skin Types<br>\n💡 Pain-Free & Easy to Use at Home<br>\n⏱️ Visible Results in Just Weeks<br>\n🪒 No More Waxing or Shaving</b>"
-          }
-        },
-        "variant-picker": {
+        "variant_picker_Vc8W3p": {
           "type": "variant_picker",
           "settings": {
             "hide_sold_out_variants": false,
@@ -219,11 +213,15 @@
             "size_chart_page": ""
           }
         },
-        "quantity-selector": {
+        "description_i6xPM3": {
+          "type": "description",
+          "settings": {}
+        },
+        "quantity_selector_Rwf9ft": {
           "type": "quantity_selector",
           "settings": {}
         },
-        "buy-buttons": {
+        "buy_buttons_MEVLXh": {
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": true,
@@ -236,13 +234,14 @@
         }
       },
       "block_order": [
-        "liquid_qPpR37",
-        "variant-picker",
-        "quantity-selector",
-        "buy-buttons"
+        "variant_picker_Vc8W3p",
+        "description_i6xPM3",
+        "quantity_selector_Rwf9ft",
+        "buy_buttons_MEVLXh"
       ],
+      "name": "Featured product",
       "settings": {
-        "product": "easy-laiser-machine",
+        "product": "new-easy-laiser",
         "subheading": "",
         "title": "",
         "show_vendor": false,
@@ -291,66 +290,6 @@
         "text_color": "rgba(0,0,0,0)",
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "featured_product_6JBxED": {
-      "type": "featured-product",
-      "blocks": {
-        "variant_picker_Vc8W3p": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "selector_mode": "block",
-            "color_mode": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "description_i6xPM3": {
-          "type": "description",
-          "settings": {}
-        },
-        "quantity_selector_Rwf9ft": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_MEVLXh": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": false,
-            "atc_button_background": "rgba(0,0,0,0)",
-            "atc_button_text_color": "rgba(0,0,0,0)",
-            "buy_now_button_background": "rgba(0,0,0,0)",
-            "buy_now_button_text_color": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "variant_picker_Vc8W3p",
-        "description_i6xPM3",
-        "quantity_selector_Rwf9ft",
-        "buy_buttons_MEVLXh"
-      ],
-      "name": "Featured product",
-      "settings": {
-        "product": "period-machine",
-        "subheading": "",
-        "title": "",
-        "show_vendor": false,
-        "show_sku": false,
-        "show_taxes_included": false,
-        "show_product_rating": false,
-        "show_share_buttons": false,
-        "help_page": "",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "show_thumbnails_on_mobile": false,
-        "desktop_thumbnails_position": "bottom",
-        "transition_effect": "slide",
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
       }
     },
     "scroll_QiTp7C": {
@@ -527,9 +466,8 @@
     "scs_hAnFUh",
     "rich_text_KpMy4t",
     "scroll_X9TwLi",
-    "featured-product",
-    "image-with-text",
     "featured_product_6JBxED",
+    "image-with-text",
     "scroll_QiTp7C",
     "testimonials",
     "insta_4nxHqK",
