@@ -16,7 +16,7 @@
       "settings": {
         "subheading": "",
         "title": "",
-        "video": "shopify://files/videos/IMG_3590 (1).MP4",
+        "video": "shopify://files/videos/IMG_9171.MP4",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "image": "shopify://shop_images/IMG_3588_05c16e5a-6e8f-4701-a7d1-69d177e592e4.heic",
         "background_type": "full_width",
@@ -267,7 +267,7 @@
         "item-1": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_6167.heic",
+            "image": "shopify://shop_images/IMG_9216.jpg",
             "tab_label": "",
             "subheading": "⭐⭐⭐⭐⭐",
             "title": "Say Goodbye to Razors Forever",
@@ -404,21 +404,21 @@
         "image_nqdNPc": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_4112.jpg",
+            "image": "shopify://shop_images/IMG_9220.jpg",
             "url": ""
           }
         },
         "image_qd46ba": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_3588.heic",
+            "image": "shopify://shop_images/IMG_9221.jpg",
             "url": ""
           }
         },
         "image_nYbQxG": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_6167.heic",
+            "image": "shopify://shop_images/IMG_9210.jpg",
             "url": ""
           }
         }
